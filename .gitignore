@@ -1,0 +1,8 @@
+.env
+.python-version
+__pycache__/
+.chainlit
+.venv
+.python-version
+chainlit.md
+uv.lock
